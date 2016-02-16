@@ -1,0 +1,27 @@
+{
+  "name": "jo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.11.1",
+    "del": "^2.2.0",
+    "express": "^4.13.4",
+    "express3-handlebars": "^0.5.2",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-compass": "^2.1.0",
+    "gulp-nodemon": "^2.0.6",
+    "gulp-plumber": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.5.2",
+    "nodemon": "^1.8.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
